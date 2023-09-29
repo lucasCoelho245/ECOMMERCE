@@ -11,6 +11,7 @@
 	<groupId>com.github.lucasCoelho245.ecommerce</groupId>
 	<artifactId>ECOMMERCE</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>ECOMMERCE</name>
 	<description>ECOMMERCE</description>
 	<properties>
